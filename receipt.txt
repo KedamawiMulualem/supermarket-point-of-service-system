@@ -1,0 +1,10 @@
+							Grocery order Receipt
+					Broccoli			$2.5
+					Broccoli			$2.5
+					Broccoli			$2.5
+					Broccoli			$2.5
+					Broccoli			$2.5
+
+					The total amount of tax is $0
+					The total amount due is $12.5
+					thank you for your online order
